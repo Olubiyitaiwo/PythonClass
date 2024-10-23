@@ -1,0 +1,12 @@
+first_number = input("Enter first number")
+print(first_number)
+second_number = input("Enter second number")
+print(second_number)
+third_number = input("Enter third number")
+print(third_number)
+forth_number = input("Enter forth number")
+print(forth_number)
+fifth_number = input("Enter fifth number")
+print(fifth_number)
+
+printf('first_number + \n  ', 'second_number +\n' 'third_number +\n ' 'forth_number + \n' 'second_number + \n')
