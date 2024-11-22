@@ -1,0 +1,7 @@
+import unittest
+import function_sum_of_even_numbers()
+
+class TestSumOfListOfAFunction(unittest.TestCase):
+
+	def Test_that_grade_exist(self):
+		function
